@@ -1,11 +1,12 @@
 # vanyazhuk.github.io/vadim
 
 Just studying HTML and CSS, hopefully PHP and SQL soon.
-Meanwhile making a website for my dad as practice.
-Not a big deal just thought adding a README would be professional. 
+Meanwhile making a website for my dad as practice. 
+His name is Vadim - get it? :)
+Not a big deal, just thought adding a README would be professional. 
 Wish me luck
 
-below - plan and ideas for the thing, in Russian 
+below - plan and hopefully ideas for the thing, in Russian 
 
 
 ПАПОЧКИН САЙТ
