@@ -1,4 +1,21 @@
+
+@font-face {
+    font-family: 'B52';
+    src: url('B52.eot');
+    src: local('B52'),
+        url('B52.eot?#iefix') format('embedded-opentype'),
+        url('B52.woff') format('woff'),
+        url('B52.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+    
+
+
 .body {
     background-color: rgb(255, 227, 195);
     color: rgb(0, 0, 0);
-}
+    font-family: B52;
+  
+
+        
